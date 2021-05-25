@@ -51,7 +51,7 @@ function shuffleArray(array) {
 // Creating Image DOM object with various essential attributes
 function createImg(i) {
   let img = document.createElement("img");
-  img.src = `https://github.com/Pyk017/Memory-Game/blob/master/images/img${i + 1}.jpg`;
+  img.src = `https://pyk017.github.io/Memory-Game/images/img${i + 1}.jpg`;
   img.width = "110";
   img.height = "110";
   img.alt = `img${i + 1}`;
