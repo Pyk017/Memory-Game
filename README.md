@@ -4,9 +4,9 @@ The Memory Game Project is all about demonstrating your mastery of HTML, CSS, an
 
 The styling of the game is up to you, but here's what we came up with:
 
-![overlay_image](screenshots/overlay.png)
+![overlay_image](/screenshots/overlay.png)
 Starting screen.
-![opening_screen](screenshots/opening.png)
+![opening_screen]/(screenshots/opening.png)
 
 ## How The Game Works ?
 
@@ -45,19 +45,19 @@ Below are some examples of how we implemented these interactions.
 
 ### Fliped Cards
 
-![fliped_cards](screenshots/card_open.png)
+![fliped_cards](/screenshots/card_open.png)
 
 ### Correct Guess
 
-![correct_guess_img](screenshots/cards_matched.png)
+![correct_guess_img](/screenshots/cards_matched.png)
 
 ### Incorrect Guess
 
-![incorrect_guess_img](screenshots/cards_unmatched.png)
+![incorrect_guess_img](/screenshots/cards_unmatched.png)
 
 ### Winning The Game
 
-![winning_game_img](screenshots/win.png)
+![winning_game_img](/screenshots/win.png)
 
 ## What I Learn from this Project ?
 
